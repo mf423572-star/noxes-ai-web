@@ -1,0 +1,6 @@
+{
+  "name": "NOXES AI - Chat App by Izz Bekasi",
+  "description": "Chatbot AI gaul nan cerdas buatan Izz dev dengan tema cyber dark mode, cyan & purple gradient.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
